@@ -8,4 +8,7 @@ object Main {
   def printAuthor(name: String, sex: String, age: Int): Unit ={
     println(s"name: $name, sex: $sex, age: $age")
   }
+
+  printAuthor("李白","男",48)
+  printAuthor("杜甫","男",56)
 }
