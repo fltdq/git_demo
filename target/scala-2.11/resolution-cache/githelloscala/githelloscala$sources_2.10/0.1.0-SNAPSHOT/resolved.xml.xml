@@ -4,7 +4,7 @@
 		module="githelloscala$sources_2.10"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20220728164701"
+		publication="20220729092833"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

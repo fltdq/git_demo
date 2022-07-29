@@ -5,6 +5,7 @@
 [debug] 	confs: [default]
 [debug] 	validate = true
 [debug] 	refresh = false
+[debug] no default cache defined: set to C:\Users\chensihang\.ivy2\cache
 [debug] resolving dependencies for configuration 'default'
 [debug] == resolving dependencies for githelloscala#githelloscala$sbt_2.10;0.1.0-SNAPSHOT [default]
 [debug] == resolving dependencies githelloscala#githelloscala$sbt_2.10;0.1.0-SNAPSHOT->org.scala-sbt#sbt;0.13.18 [default->default(compile)]
@@ -1778,9 +1779,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.18!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
-[debug] :: resolution report :: resolve 300ms :: artifacts dl 21ms
+[debug] :: resolution report :: resolve 1155ms :: artifacts dl 38ms
 [debug] 	report for githelloscala#githelloscala$sbt_2.10;0.1.0-SNAPSHOT default produced in D:\Program_Files\JetBrains\workspace\GitHelloScala\target\scala-2.11\resolution-cache\reports\githelloscala-githelloscala$sbt_2.10-default.xml
-[debug] 	resolve done (300ms resolve - 21ms download)
+[debug] 	resolve done (1155ms resolve - 38ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: githelloscala#githelloscala$sources_2.10;0.1.0-SNAPSHOT
 [debug] 	confs: [default]
@@ -2030,6 +2031,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#io;0.13.18!io.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#classpath;0.13.18!classpath.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.18!apply-macro.jar(src)
-[debug] :: resolution report :: resolve 57ms :: artifacts dl 11ms
+[debug] :: resolution report :: resolve 102ms :: artifacts dl 21ms
 [debug] 	report for githelloscala#githelloscala$sources_2.10;0.1.0-SNAPSHOT default produced in D:\Program_Files\JetBrains\workspace\GitHelloScala\target\scala-2.11\resolution-cache\reports\githelloscala-githelloscala$sources_2.10-default.xml
-[debug] 	resolve done (57ms resolve - 11ms download)
+[debug] 	resolve done (102ms resolve - 21ms download)
